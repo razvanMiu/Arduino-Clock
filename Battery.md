@@ -42,3 +42,6 @@ Q = I * T
 Q => capacitate
 T => timp
 ```
+
+### Demo discharger
+![alt text](https://github.com/razvanMiu/Arduino-Clock/blob/master/battary_discharge.png)
